@@ -22,3 +22,9 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+Hello!
+It's witten at modify-README of branch!
+
+I learn by "https://railstutorial.jp/chapters/beginning?version=5.1#sec-prerequisites"
